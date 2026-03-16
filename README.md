@@ -338,10 +338,5 @@ Java Full Stack Developer | B.E. CSE 2026 | Oasys Institute of Technology, Trich
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 > ⭐ If you found this project helpful, please give it a star — it helps others discover it!
