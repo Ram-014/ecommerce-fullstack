@@ -1,6 +1,6 @@
 # 🛍️ RamShop — Full Stack E-Commerce Application
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-24-orange?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green?style=flat-square&logo=springboot)
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square&logo=mysql)
