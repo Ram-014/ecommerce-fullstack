@@ -1,0 +1,18 @@
+# Copy this file to application.properties and fill in your values
+# NEVER commit application.properties with real credentials to GitHub
+
+server.port=8080
+
+spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce_db?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+spring.datasource.username=root
+spring.datasource.password=YOUR_MYSQL_PASSWORD_HERE
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+jwt.secret=YourSuperSecretKeyHereMinimum32CharactersLong
+jwt.expiration=86400000
+
+app.cors.allowed-origins=http://localhost:3000
